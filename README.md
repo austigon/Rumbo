@@ -38,4 +38,4 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 
 ---
 
-*DISCLOSURE: this README was written with the assistance of the Claude LLM*
+*DISCLOSURE: this README was written with the assistance of the Claude LLM as a summary of the linked proposal.pdf, which was authored exclusively by Austin Gonzalez*
